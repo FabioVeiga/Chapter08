@@ -1,0 +1,10 @@
+D:\IBT\C#\Chapter08Program02\bin\Debug\Chapter08Program02.exe.config
+D:\IBT\C#\Chapter08Program02\bin\Debug\Chapter08Program02.exe
+D:\IBT\C#\Chapter08Program02\bin\Debug\Chapter08Program02.pdb
+D:\IBT\C#\Chapter08Program02\obj\Debug\Chapter08Program02.csprojAssemblyReference.cache
+D:\IBT\C#\Chapter08Program02\obj\Debug\Chapter08Program02.Form1.resources
+D:\IBT\C#\Chapter08Program02\obj\Debug\Chapter08Program02.Properties.Resources.resources
+D:\IBT\C#\Chapter08Program02\obj\Debug\Chapter08Program02.csproj.GenerateResource.cache
+D:\IBT\C#\Chapter08Program02\obj\Debug\Chapter08Program02.csproj.CoreCompileInputs.cache
+D:\IBT\C#\Chapter08Program02\obj\Debug\Chapter08Program02.exe
+D:\IBT\C#\Chapter08Program02\obj\Debug\Chapter08Program02.pdb
